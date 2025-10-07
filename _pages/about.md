@@ -5,7 +5,7 @@ title: "About"
 
 ![Arches](/assets/images/RandyandBecca.JPG) 
 
-Hello! My name is Randy Chase, and I am a research scientist at the Cooperative Institute for Research in the Atmosphere (CIRA) located at Colorado State University (CSU). I work 100% remotely for CIRA from Salt Lake City where my partner and I live. 
+Hello! My name is Randy Chase, and I am an Atmospheic Data Scientist at Tomorrow.io. I work 100% remotely for Tomorrow.io from Salt Lake City where my partner and I live. 
 
 **TL;DR:** I got interested in weather at a young age from movies (e.g., twister) and lake effect snow. I got my B.S., M.S., and Ph.D. all in Atmospheric Sciences/Meteorology. My main research interests lie in using the latest machine learning methods for enhancing weather forecasting. You will often find me chasing storms, playing tennis, or cheering on the Fighting Illini and the Buffalo Bills. 
 
@@ -32,7 +32,7 @@ Cumulatively, my curriosity for weather arose from these many factors. I was not
 
 I began my formal study of the weather in 2012, at the State University of New York (SUNY) Brockport. Brockport is a small liberal arts college located in Brockport NY, a small town located on the Erie Canal. I chose Brockport because of the proximity to my home town and the small personal class sizes (e.g., 20 students total) for Meteorology classes. Brockport was a great place to get a solid base understanding of the atmosphere. I double majored in Meteorology and Water Resources with the inital intent to become a forecaster, but after an REU in 2014 at Penn State, I quickly realized I enjoyed research. 
 
-After Brockport I went on to do a Masters and PhD at the University of Illinois, Urbana-Champaign working under the advisement of Dr. Greg McFarquhar and Dr. Stephen Nesbitt. My graduate work was generally focused on radar remote sensing of snowfall, where I explored multi-frequency radar data and worked on an alternative retrieval of snowfall for the Global Precipitation Measurement Mission's Dual-Frequency Precipitation Radar. After my PhD, I explored the world of AI/ML for atmospheric sciences and did a Postdoc with Dr. Amy McGovern at the Unviersity of Oklahoma and the NSF funded AI institute named AI2ES. See more details about these research topics on my past-research page.
+After Brockport I went on to do a MS and PhD at the University of Illinois, Urbana-Champaign working under the advisement of Dr. Greg McFarquhar and Dr. Stephen Nesbitt. My graduate work was generally focused on radar remote sensing of snowfall, where I explored multi-frequency radar data and worked on an alternative retrieval of snowfall for the Global Precipitation Measurement Mission's Dual-Frequency Precipitation Radar. After my PhD, I explored the world of AI/ML for atmospheric sciences and did a Postdoc with Dr. Amy McGovern at the Unviersity of Oklahoma and the NSF funded AI institute named AI2ES. See more details about these research topics on my past-research page.
 
 <h3> <i> Other </i> </h3> 
 
